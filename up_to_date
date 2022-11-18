@@ -1,0 +1,8 @@
+git add .
+git commit -m <Comment>
+git push
+git push origin <branches>
+git switch <branches>
+git branch -a
+git branch -d <branch name>
+git push --set-upstream origin <new branch name>
